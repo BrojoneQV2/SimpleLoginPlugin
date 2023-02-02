@@ -1,0 +1,15 @@
+name: Login
+version: '${project.version}'
+main: pl.arturm.login.Main
+authors: [ ArturM09 ]
+
+
+commands:
+  register:
+    aliases:
+      - reg
+      - zarejestruj
+  login:
+    aliases:
+      - zaloguj
+      - l
